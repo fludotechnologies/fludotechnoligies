@@ -91,7 +91,7 @@ We will be showcasing our live projects and case studies here.
 ## 📬 Contact Us
 
 - 📧 Email: contact@fludotechnologies.com  
-- 🌐 Website: Coming Soon  
+- 🌐 Website: www.fludotechnologies.com 
 - 📍 Location: Kerala, India  
 
 ---
